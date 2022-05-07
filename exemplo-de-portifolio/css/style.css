@@ -253,6 +253,7 @@ a:hover {
 }
 
 .card {
+   
    position: relative;
    width: 200px;
    height: 200px;
@@ -267,7 +268,7 @@ a:hover {
    cursor: pointer;
    filter: grayscale(1);
    transition: 0.5s ease-in-out;
-   background-image: url(imagens/cafe\ \(1\).png);
+   background-image: url(imagens/cave_ball_silhouette_147313_2048x1152.jpg);
    background-repeat: no-repeat;
    color: black;
 }
